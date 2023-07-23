@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Mariusz Iwaniak and here's a little something about me.
+
+Almost a year ago I decided to learn Java.
+
+*Soon here will be a little more information...*
 
 <!--
 **mariusziwaniak/mariusziwaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
